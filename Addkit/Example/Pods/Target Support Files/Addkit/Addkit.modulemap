@@ -1,0 +1,6 @@
+framework module Addkit {
+  umbrella header "Addkit-umbrella.h"
+
+  export *
+  module * { export * }
+}
